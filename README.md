@@ -37,7 +37,7 @@ My engineering philosophy centers on a product-minded approach, transforming com
 <div align="center">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,c,cs,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,py,c,cs,html,css,sql&theme=dark" alt="Languages" />
   </a>
   <br/><br/>
 
@@ -49,7 +49,7 @@ My engineering philosophy centers on a product-minded approach, transforming com
 
   <h3>Backend & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sql&theme=dark" alt="Backend" />
   </a>
   <br/><br/>
 
@@ -207,36 +207,42 @@ Built a comprehensive foundation in theoretical and applied computer science.
 
 ## GitHub Analytics 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamankadoura&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamankadoura&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=7b2cbf&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamankadoura&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamankadoura&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamankadoura&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=7b2cbf&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamankadoura&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
 ---
 
 ## GitHub Trophies 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yamankadoura&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yamankadoura&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 
 ## Contribution Activity 
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamankadoura&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7b2cbf&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
+</p>
 
 ---
 
 ## Contribution Snake 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yamankadoura/yamankadoura/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamankadoura/yamankadoura/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamankadoura/yamankadoura/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yamankadoura/yamankadoura/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
