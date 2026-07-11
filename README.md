@@ -37,7 +37,7 @@ My engineering philosophy centers on a product-minded approach, transforming com
 <div align="center">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,c,cs,fsharp,html,css,sql&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,py,c,cs,html,css,sql&theme=dark" alt="Languages" />
   </a>
   <br/><br/>
 
@@ -49,7 +49,7 @@ My engineering philosophy centers on a product-minded approach, transforming com
 
   <h3>Backend & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sql&theme=dark" alt="Backend" />
   </a>
   <br/><br/>
 
@@ -58,7 +58,7 @@ My engineering philosophy centers on a product-minded approach, transforming com
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Tools" />
   </a>
 </div>
----
+
 
 ##  AI / ML Expertise 
 
