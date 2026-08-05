@@ -208,22 +208,10 @@ Built a comprehensive foundation in theoretical and applied computer science.
 ## GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamankadoura&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamankadoura&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=7b2cbf&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamankadoura&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" />
-</p>
 
----
-
-## GitHub Trophies 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yamankadoura&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
-  </a>
-</p>
 ---
 
 ## Contribution Activity 
